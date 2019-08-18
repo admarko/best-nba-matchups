@@ -25,4 +25,4 @@ The CSV file `nfl_2020_game.csv` was copied from Pro Football Reference
 [at this URL](https://www.pro-football-reference.com/years/2019/games.htm), many
  thanks to Pro Football Reference!
 
-Cloned repo from @dnoursi's "best-nba-matchups" [at this URL]([at this URL])
+Cloned repo from @dnoursi's [best-nba-matchups]([https://www.pro-football-reference.com/years/2019/games.htm])
